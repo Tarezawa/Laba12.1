@@ -9,7 +9,7 @@ public class Main {
         tester.printInfo();
         tester.printInfo("Senior");
         tester.printInfo("Lead", 7000);
-
+        System.out.println("Hi I'm" + name);
         AnotherClass.staticMethod();
     }
 }
