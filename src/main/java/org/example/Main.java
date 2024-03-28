@@ -10,6 +10,10 @@ public class Main {
         tester.printInfo("Senior");
         tester.printInfo("Lead", 7000);
         System.out.println("Hi I'm" + name);
+
+        tester.printInfo("Senior");
+        tester.printInfo("Lead", 7000);
+        System.out.println("Hi I'm" + name);
         AnotherClass.staticMethod();
     }
 }
